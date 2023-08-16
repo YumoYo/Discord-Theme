@@ -94,7 +94,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 	visibility: visible !important;
 	border-radius: 8px !important;
 	border: 3px solid transparent !important;
-	background-color: rgba(0, 0, 0, 0.3) !important;
+	background-color: rgba(0, 255, 55) !important;
 	background-clip: padding-box !important;
 }
 
