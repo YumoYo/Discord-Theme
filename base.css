@@ -404,7 +404,7 @@ div[class^="sidebar-"]>section>div:last-child [class^="avatarWrapper-"] {
 /* Content */
 
 div[class^='chat'] {
-	--background-floating: rgba(var(--md-black), 0);
+	--background-floating: rgba(var(--md-black), 0.5);
     background: transparent;
 }
 
