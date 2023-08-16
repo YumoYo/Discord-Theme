@@ -1,2 +1,2 @@
 # Discord-Theme
-Custom Version of DarkMatter Discord theme
+Custom Version of DarkMatter Discord theme!!
