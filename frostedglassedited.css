@@ -503,11 +503,11 @@ textarea {
 #app-mount .guilds-2JjMmN [class*=expandedFolderBackground] {
   background: var(--foreground);
 }
-*/
+
 #app-mount .guilds-2JjMmN [class*=folder] {
   background: transparent;
 }
-
+*/
 #app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .childWrapper-1j_1ub {
   background: var(--gradient);
   background-color: transparent;
