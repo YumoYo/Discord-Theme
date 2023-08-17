@@ -499,9 +499,11 @@ textarea {
   display: none;
 }
 
+/*
 #app-mount .guilds-2JjMmN [class*=expandedFolderBackground] {
   background: var(--foreground);
 }
+*/
 #app-mount .guilds-2JjMmN [class*=folder] {
   background: transparent;
 }
